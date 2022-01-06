@@ -10,7 +10,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <h1 className={styles.title}>GCLOUD first punch!</h1>
+        <h1 className={styles.title}>OK... second try!</h1>
 
         <p className={styles.description}>
           To be honest I don't really know what I am doing. :P
